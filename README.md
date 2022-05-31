@@ -1,2 +1,3 @@
 # My-learning-at-YBI-foundation
-My Project
+I am learning at YBI foundation
+AI & ML
